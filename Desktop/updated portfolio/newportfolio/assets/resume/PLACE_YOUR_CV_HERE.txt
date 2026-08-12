@@ -1,0 +1,2 @@
+Put your CV file here and name it "your-cv.pdf"
+(or edit RESUME_URL in js/main.js to point somewhere else, like a Google Drive link).

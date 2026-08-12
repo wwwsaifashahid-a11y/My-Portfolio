@@ -1,0 +1,3 @@
+Drop workflow screenshots here (e.g. business-lead-automation.png),
+then set the "screenshot" field for that project in js/data.js to
+"assets/screenshots/business-lead-automation.png".
